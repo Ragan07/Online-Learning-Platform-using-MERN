@@ -1,8 +1,8 @@
 Team Members:
-Dinesh Kumar T (310121104026)
-Diwakar P (310121104029)
-Dhayanithi S R (310121104023)
-Albert Simion S (310121104006)
+Poovaragan P(411621104040)
+Praveen R(411621104041)
+Priya S((411621104042)
+Rakshaya A(411621104043)
 
 # StudyApp - Naan Mudhalvan Project
 
