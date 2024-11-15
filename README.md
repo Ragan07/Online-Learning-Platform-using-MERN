@@ -1,7 +1,7 @@
 Team Members:
 Poovaragan P(411621104040)
 Praveen R(411621104041)
-Priya S((411621104042)
+Priya S(411621104042)
 Rakshaya A(411621104043)
 
 # StudyApp - Naan Mudhalvan Project
